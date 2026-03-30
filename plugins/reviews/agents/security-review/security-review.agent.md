@@ -1,5 +1,5 @@
 ---
-name: security-review
+name: security-review-1
 description: "STRIDE threat modeling and architecture security review. Auto-detects repo type, evaluates design principles and trust boundaries, and delivers risk-prioritized remediation recommendations."
 argument-hint: "Target scope, e.g., 'full design review', 'threat model auth flow', 'evaluate design principles', 'auth architecture', 'multi-tenant isolation', 'factory pattern'"
 tools: ['read', 'search', 'web', 'edit']
