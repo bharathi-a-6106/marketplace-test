@@ -15,6 +15,6 @@
   ],
   "agents": [
     "./agents/security-design/",
-    "./agents/"
+    "./agents/security-review/"
   ]
 }
