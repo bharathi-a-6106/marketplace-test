@@ -1,0 +1,20 @@
+{
+  "name": "reviews",
+  "description": "Enterprise grade AI-native application security scanning, validation, and remediation",
+  "version": "1.2.0",
+  "author": {
+    "name": "SDLC Review Team",
+    "email": "",
+    "url": "https://test.com"
+  },
+  "homepage": "https://test.com",
+  "repository": "",
+  "license": "Apache-2.0",
+  "keywords": [
+    "security", "vulnerability", "management", "enterprise", "application", "scanning", "validation", "remediation"
+  ],
+  "agents": [
+    "./agents/security-design/",
+    "./agents/"
+  ]
+}

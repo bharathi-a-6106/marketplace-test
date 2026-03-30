@@ -1,0 +1,19 @@
+{
+  "name": "test-marketplace",
+  "metadata": {
+    "description": "test Copilot/Claude plugins",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "test",
+    "email": "test@test.com"
+  },
+  "plugins": [
+    {
+      "name": "reviews",
+      "description": "Plugins for security review automation, including implementation-level vulnerability scanning, architecture-level STRIDE threat modeling, and design review.",
+      "version": "1.2.0",
+      "source": "./plugins/reviews"
+    }
+  ]
+}
